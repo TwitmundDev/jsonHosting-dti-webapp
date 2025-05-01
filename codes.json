@@ -1,0 +1,10 @@
+{
+  "LANA":{
+    "expired":false,
+    "name":"Lana"
+  },
+  "FASHION":{
+    "expired":false,
+    "name":"Fashion"
+  }
+}
